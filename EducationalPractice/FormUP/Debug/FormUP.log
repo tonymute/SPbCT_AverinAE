@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Administrator\source\repos\FormUP\MyForm1.h(321,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\FormUP\MyForm1.h(333,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Administrator\source\repos\FormUP\MyForm1.h(377,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\FormUP\MyForm1.h(394,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FormUP.vcxproj -> C:\Users\Administrator\source\repos\FormUP\Debug\FormUP.exe

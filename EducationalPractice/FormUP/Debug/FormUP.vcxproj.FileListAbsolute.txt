@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\FormUP\Debug\FormUP.MyForm.resources
+C:\Users\Administrator\source\repos\FormUP\Debug\FormUP.MyForm1.resources
+C:\Users\Administrator\source\repos\FormUP\Debug\FormUP.vcxproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FormUP\Debug\FormUP.exe
